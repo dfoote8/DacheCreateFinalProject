@@ -1,3 +1,11 @@
+@import 'partials/base';
+@import 'partials/colors';
 h1{
     color: aqua;
+}
+
+nav{
+    width: 900px;
+    height:50px;
+    background-color:$primary_color;
 }

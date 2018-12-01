@@ -1,4 +1,13 @@
+.item {
+  border: 1px solid;
+  border-color: black; }
+
 h1 {
   color: aqua; }
+
+nav {
+  width: 900px;
+  height: 50px;
+  background-color: rgba(0, 204, 255, 0.336); }
 
 /*# sourceMappingURL=style.css.map */
