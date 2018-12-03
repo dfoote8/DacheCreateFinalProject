@@ -1,4 +1,20 @@
+body{
+    background-color:rgba(25, 0, 139, 0.623);
+    background-size: cover;
+}
 .item{
+    width: 100px;
     border:1px solid;
     border-color: black;
+}
+
+.col-6{
+    max-width: 20%;
+}
+.rounded{
+    width: 300px;
+    height:300px;
+    justify-content: center;
+    text-align: center;
+    flex-flow: row;
 }
